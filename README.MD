@@ -36,6 +36,7 @@ To see the UI of the mlfow project
 mlfow ui
 ```
 Use this link to see the UI of the mlfow project (source)http://127.0.0.1:5000/
+
 Create MLproject file
 ```bash
 touch MLproject
